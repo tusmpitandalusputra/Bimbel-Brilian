@@ -1,0 +1,6 @@
+{
+  "name": "CendekiaEdu",
+  "description": "Sistem Manajemen Bimbingan Belajar (SD, SMP, SMA) terintegrasi langsung dengan Google Sheets dan siap deploy di Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
